@@ -1,22 +1,14 @@
-# FlashWerk Landingpage v2
+# FlashWerk Landingpage V6 – Multilingual
 
-## Enthaltene Seiten
-- index.html
-- impressum.html
-- datenschutz.html
-- agb.html
-- widerruf.html
-- rueckgabe.html
-- styles.css
-- script.js
-- flashwerk-logo.png
+Sprachen:
+- Deutsch: `/`
+- Englisch: `/en/`
+- Niederländisch: `/nl/`
+- Französisch: `/fr/`
+- Polnisch: `/pl/`
 
-## Upload auf GitHub
-Alle Dateien in das bestehende Repository `FlashWerk/flashwerk-website` hochladen und vorhandene Dateien ersetzen.
+Die deutschen Rechtstexte bleiben die Originalfassung und werden aus allen Sprachversionen verlinkt.
 
-## Wichtig
-- Die Landingpage nutzt selbst keine Analyse-/Marketing-Tracker.
-- Rechtstexte wurden auf Basis der im September 2026 verfügbaren Gesetzeslage überarbeitet.
-- Die tatsächliche Portal-Infrastruktur, Checkout-Texte, Checkboxen und Zahlungsabläufe müssen technisch zu den Rechtstexten passen.
-- Insbesondere die Zustimmung zum vorzeitigen Beginn einer Dienstleistung bzw. zur Bereitstellung digitaler Inhalte muss im Checkout korrekt umgesetzt und bestätigt werden.
-- Bei Änderungen an Hosting, Zahlungsdiensten oder Tracking muss die Datenschutzerklärung angepasst werden.
+Upload:
+Alle Dateien und Ordner in das bestehende GitHub-Repository hochladen.
+Die vorhandene `CNAME`-Datei im Repository nicht löschen.
