@@ -1,30 +1,22 @@
-# FlashWerk Landingpage
+# FlashWerk Landingpage v2
 
-Fertige statische Landingpage für `flashwerk.eu`.
+## Enthaltene Seiten
+- index.html
+- impressum.html
+- datenschutz.html
+- agb.html
+- widerruf.html
+- rueckgabe.html
+- styles.css
+- script.js
+- flashwerk-logo.png
 
-## Dateien
-- `index.html` – Startseite
-- `styles.css` – Design
-- `script.js` – mobiles Menü / Jahreszahl
-- `favicon.svg` – Browser-Icon
-- `impressum.html` – Impressums-Platzhalter
-- `datenschutz.html` – Datenschutz-Platzhalter
-
-## Vor Veröffentlichung
-1. `impressum.html` mit deinen echten Pflichtangaben ausfüllen.
-2. `datenschutz.html` an den tatsächlich verwendeten Hoster und ggf. weitere Dienste anpassen.
-3. Optional Logo und Texte individualisieren.
-
-## GitHub Pages
-1. Neues öffentliches GitHub Repository erstellen, z. B. `flashwerk-website`.
-2. Alle Dateien aus diesem Ordner in das Repository hochladen.
-3. Repository → Settings → Pages.
-4. Bei "Build and deployment" `Deploy from a branch` wählen.
-5. Branch `main`, Ordner `/ (root)` wählen und speichern.
-6. Unter "Custom domain" `flashwerk.eu` eintragen.
-7. Bei deinem Domainanbieter die von GitHub dokumentierten DNS-Einträge setzen.
-8. `portal.flashwerk.eu` NICHT verändern.
-9. Nach erfolgreicher DNS-Prüfung in GitHub Pages `Enforce HTTPS` aktivieren.
+## Upload auf GitHub
+Alle Dateien in das bestehende Repository `FlashWerk/flashwerk-website` hochladen und vorhandene Dateien ersetzen.
 
 ## Wichtig
-Die Landingpage selbst verwendet keine externen Schriftarten, Tracker oder Cookies.
+- Die Landingpage nutzt selbst keine Analyse-/Marketing-Tracker.
+- Rechtstexte wurden auf Basis der im September 2026 verfügbaren Gesetzeslage überarbeitet.
+- Die tatsächliche Portal-Infrastruktur, Checkout-Texte, Checkboxen und Zahlungsabläufe müssen technisch zu den Rechtstexten passen.
+- Insbesondere die Zustimmung zum vorzeitigen Beginn einer Dienstleistung bzw. zur Bereitstellung digitaler Inhalte muss im Checkout korrekt umgesetzt und bestätigt werden.
+- Bei Änderungen an Hosting, Zahlungsdiensten oder Tracking muss die Datenschutzerklärung angepasst werden.
