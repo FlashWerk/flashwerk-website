@@ -9,6 +9,4 @@ Sprachen:
 
 Die deutschen Rechtstexte bleiben die Originalfassung und werden aus allen Sprachversionen verlinkt.
 
-Upload:
-Alle Dateien und Ordner in das bestehende GitHub-Repository hochladen.
-Die vorhandene `CNAME`-Datei im Repository nicht löschen.
+
